@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "nodeJs weather app using third-party weather api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin229n/wather-app.git"
+  },
+  "author": "vinayak patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vin229n/wather-app/issues"
+  },
+  "homepage": "https://github.com/vin229n/wather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
